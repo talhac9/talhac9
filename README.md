@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FootLeague](https://github.com/talhac9/FootLeague)
 
-- 🌱 I’m currently learning **AWS, Kubernets, Kafka**
+- 🌱 I’m currently learning **AWS, Kubernets and Kafka**
 
 - 👨‍💻 All of my projects are available at [https://github.com/talhac9/](https://github.com/talhac9/)
 
